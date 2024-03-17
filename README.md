@@ -1,5 +1,5 @@
 
-# Welcome to my personnal projects that I did during my studies. 
+# Welcome to the personal projects that I did during my studies. 
 
 ### Here are the biggest projects that I have done  :
 
