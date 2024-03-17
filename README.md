@@ -1,5 +1,6 @@
 # Welcome to the personal projects that I did during my studies. 
-
+###### About me:
+I am a Bsc. student at EPFL in system of communication. Shortly explained, I study computer science with a strong focus on mathematics and algorithms. For my 34 credits of options, I intend to focus on quantum physics, quantum computing and advanced mathematical topics. 
 ### Here are the biggest projects that I have done  :
 
  - [Machine Learning : supervised algorithm for predicting highschoolers option choices](https://github.com/Disinted/TM-finale). Done as a graded highschool research project with a partner  **Javascript, HTML & CSS, KNN/ K-mean-clustering
